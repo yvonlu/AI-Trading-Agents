@@ -29,9 +29,7 @@ Final moving average windows for each agent are displayed.
 Statistical analysis of multiple simulations helps assess strategy robustness.
 
 Example Output:
-yaml
-Copy
-Edit
+
 Final Cumulative Returns - AMZN
 Original Agent A: 1.42
 Original Agent B: 1.35
